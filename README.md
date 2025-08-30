@@ -20,9 +20,8 @@ The dataset is intended for **researchers, founders, investors, and analysts** w
 ---
 
 ## 🙏 Credits
-This dataset is built upon the **YC Companies API** provided by [linrock/ycdb](https://github.com/linrock/ycdb).  
+This dataset is built upon the **YC Companies API** provided by [[linrock/ycdb](https://github.com/linrock/ycdb).  ](https://github.com/yc-oss)
 
-- Original API and scraping framework: **linrock** (GitHub)  
-- Dataset compilation, cleaning, and visualization: **This repository**  
+- Original API link - https://github.com/yc-oss/api
 
 
